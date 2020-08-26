@@ -1,3 +1,14 @@
+# Impressum
+<p>Der Kinder- und Jugendgesundheitsdienst<br/>
+Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
+ISBN 978-3-9812871-4-1<br/>
+DOI <a href="https://doi.org/10.25815/6f4j-aq15" title="https://doi.org/10.25815/6f4j-aq15">10.25815/6f4j-aq15</a><br/>
+Datum 2020<br/>
+Ort Berlin</p>
+
+Webseite: <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/">https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/</a>
+
+Temp links (to be removed) [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/webbuch/index.html#src=kjgb-wb/kjgd_v1.xhtml&bookMode=true)
 
 # Über das Lehrbuch
 
