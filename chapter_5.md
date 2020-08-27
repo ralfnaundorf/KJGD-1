@@ -352,9 +352,7 @@ für den ÖGD beschreiben.
 
 Die Aufgaben nach Landesgesetz siehe Tabelle 
 
-![<span class="figure-cat-table" data-figure-category="table">Tabelle</span><span data-caption="KJGD relevante Regelungen in den GDGs der Länder">KJGD
-relevante Regelungen in den GDGs der
-Länder</span>](65b1a628-3996-4bd2-8933-b3c50774f530.png)
+{% include image.html url="65b1a628-3996-4bd2-8933-b3c50774f530.png" description="Tabelle 1: KJGD relevante Regelungen in den GDGs der Länder" %}
 
 #### Schulgesetz
 
