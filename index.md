@@ -1,36 +1,48 @@
 ---
 layout: page
-title: Startseite
+title: 00Startseite
 nav_order: 1
 ---
+ 
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+  </summary>
+ 
+1. TOC
+{:toc}
+ </details>
+ 
+   <p></p>
+ 
+ 
+Der Kinder- und Jugendgesundheitsdienst (KJGD) ist einer der zentralen
+Bereiche im Öffentliche Gesundheitsdienst (ÖGD). Er hat sich von der
+Einführung schulärztlicher Tätigkeit vor fast 150 Jahren immer wieder
+ändernden gesellschaftlichen Rahmenbedingungen angepasst und wurde
+weiterentwickelt. Die Arbeit im KJGD wurden in den letzten Jahrzehnten
+zunehmend methodisch standardisiert und konsekutiv ausgebaut, so das die
+heutigen Aufgaben weit über die ursprünglichen schulärztlichen Aufgaben
+hinausgehen.
 
-![Krisenmanagement Buch](images/krisenmanagment.png "Krisenmanagement Buch"){:.imgcover}
-*Krisenmanagement - Lehrbuch für den Öffentlichen Gesundheitsdienst*
+Vor diesem Hintergrund ist es an der Zeit ein eigenständiges Lehrbuch
+für die im KJGD tätigen Ärztinnen und Ärzte, sowie alle interessierten
+Mitarbeiterinnen und Mitarbeiter in diesem Bereich zu erarbeiten und
+dabei die Ausgestaltung der Aufgaben und Tätigkeitsbereich umfangreich
+zu beschreiben.
 
-Das Management von Krisen hat in den letzten Jahren erheblich an
-Bedeutung gewonnen, insbesondere auch im Öffentlichen Gesundheitsdienst
-(ÖGD). Grundsätzlich liegt die Entscheidungshoheit im Rahmen des
-Krisenmanagements infektiologischer Gefahrenlagen bei den kommunalen
-Gesundheitsämtern.
+**Ein effektiver KJGD ist heute nicht nur notwendig, sondern angesichts
+der zunehmenden gesellschaftlichen Herausforderungen, wie beispielsweise
+durch die Inklusion, wichtiger denn je.**
 
-**Aufgrund der aktuellen Lage (Stand 31. März 2020) in Zusammenhang mit
-der Verbreitung des neuen Coronavirus stellen wir hiermit in einer
-Vorabversion Auszüge unseres Lehrbuchs zur Verfügung.**
-
-Instrumente des Krisenmanagements helfen Mitarbeiterinnen und Mitarbeitern im ÖGD, die
-Arbeitsfähigkeit der Behörden in infektiologischen Gefahrenlagen
-sicherzustellen. Übliche Verwaltungsstrukturen werden den Anforderungen
-in einer Krise in der Regel nicht gerecht. So muss beispielsweise das
-Informations- und Kommunikationsmanagement an den gesteigerten Aufwand
-angepasst werden. Bei begrenztem Fachpersonal müssen Kompetenzen deshalb
-zentral gebündelt und bereitgestellt werden. Das Lehrbuch soll
-Mitarbeitern/innen in Gesundheitsämtern, aber auch aus anderen
-Einrichtungen des ÖGD, praktische Hinweise geben, wie sie sich
-zielgerecht auf die Gefahrenabwehr in Krisensituationen vorbereiten
-können, und Grundlagen des Krisenmanagements vermitteln. Neben
-fachlichen Gesichtspunkten werden insbesondere Handlungsempfehlungen für
-die Einsatzplanung und Stabsarbeit gegeben. Checklisten ergänzen das
-Lehrbuch als praktische Hilfsmittel.
+Das Lehrbuch soll Mitarbeitern/innen in Gesundheitsämtern, aber auch aus
+anderen Einrichtungen des ÖGD, Grundlegenden Prinzipien und Methoden,
+sowie praktische Erfahrungen vermitteln damit diese sich zielgerecht auf
+die Arbeiten im KJGD vorbereiten können. Neben fachlichen
+Gesichtspunkten werden insbesondere Handlungsempfehlungen für die
+alltägliche Arbeit im Gesundheitsamt auf kommunaler Ebene gegeben. Eine
+ausführliche Literaturliste ergänzt das Lehrbuch als praktische
+Hilfsmittel.
 
 Die in diesem einzigartigen Lehrbuch zusammengefassten Inhalte beruhen
 auf jahrelanger theoretischer Auseinandersetzung und praktischer
@@ -43,4 +55,10 @@ Es wird zukünftig aktualisiert und erweitert werden. Wir freuen uns
 daher, wenn Sie uns Ihre Anregungen, Kommentare und Ergänzungen
 mitteilen. Schicken Sie diese bitte an lehrbuch@akademie-oegw.de
 
-Wir nutzen **[Hypothes.is](https://hypothes.is/ "https://hypothes.is/")** für Ihre Kommentare und Ergänzungen unseres Lehrbuches.
+Wir nutzen
+**[Hypothes.is](https://hypothes.is/ "https://hypothes.is/")** für Ihre
+Kommentare und Ergänzungen unseres Lehrbuches.
+
+<div class="section fnlist" data-role="doc-footnotes">
+
+</div>
