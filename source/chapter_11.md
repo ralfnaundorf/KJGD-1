@@ -1,27 +1,27 @@
 ---
 layout: page
 title: b. Über uns
-nav_order: 20
+nav_order: 11
 ---
-
-<details markdown="block">
-  <summary>
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
+ 
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
   </summary>
-
+ 
 1. TOC
 {:toc}
  </details>
-
+ 
    <p></p>
-
-
+ 
+ 
 Des Lehr- und Handbuch ist ein gemeinsames Projekt der [Akademie für
 Öffentliches
 Gesundheitswesen](https://www.akademie-oegw.de/startseite.html "https://www.akademie-oegw.de/startseite.html")
 und des [Open Science
-Lab](https://www.tib.eu/de/forschung-entwicklung/open-science) der TIB
-([Technischen Informationsbibliothek](https://www.tib.eu/)) -
+Lab](https://www.tib.eu/de/forschung-entwicklung/open-science "https://www.tib.eu/de/forschung-entwicklung/open-science")
+der TIB ([Technischen Informationsbibliothek](https://www.tib.eu/)) -
 Leibniz-Informationszentrum Technik und Naturwissenschaften. 
 
 ## Finanzierung
@@ -32,27 +32,34 @@ Gesundheit](https://www.bundesgesundheitsministerium.de/ "Bundesministerium für
 
 ## Open Access
 
-Dieses online kostenfrei zugängliche Lehr- und Handbuch soll Ihnen als Arbeitshilfe im Praxisalltag dienen. Um Forschung und Lehre zur Verbesserung der Öffentlichen Gesundheit zu fördern ist es wichtig, dass alle Mitarbeiterinnen und Mitarbeiter im ÖGD, die interessierte Fachöffentlichkeit und die Öffentlichkeit jederzeit Zugang zum bestverfügbaren Wissen zum Thema Öffentliche Gesundheit haben.Die aktuellste Version des Lehr-und Handbuchs ist on-demand gedruckt erhältlich.
+Dieses online kostenfrei zugängliche Lehr- und Handbuch soll Ihnen als
+Arbeitshilfe im Praxisalltag dienen. Um Forschung und Lehre zur
+Verbesserung der Öffentlichen Gesundheit zu fördern ist es wichtig, dass
+alle Mitarbeiterinnen und Mitarbeiter im ÖGD, die interessierte
+Fachöffentlichkeit und die Öffentlichkeit jederzeit Zugang zum
+bestverfügbaren Wissen zum Thema Öffentliche Gesundheit haben.Die
+aktuellste Version des Lehr-und Handbuchs ist on-demand gedruckt
+erhältlich.
 
 ## Urheberrechtserklärung & Lizenz
 
 Das Lehrbuch ist eine **Open Educational Resource (OER)**, daher
-verfügbar unter der Lizenz Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) (mehr:
-[https://creativecommons.org/licenses/by-sa/4.0/deed.de](https://creativecommons.org/licenses/by-sa/4.0/deed.de "https://creativecommons.org/licenses/by-sa/4.0/deed.de")).
-Sie dürfen das Material in jedwedem Format oder Medium vervielfältigen
-und weiterverbreiten, es remixen, verändern und darauf aufbauen, und
-zwar für beliebige Zwecke, sogar kommerziell. Der Lizenzgeber kann
-diese Freiheiten nicht widerrufen, solange Sie sich an die
-Lizenzbedingungen halten: Sie müssen [angemessene Urheber- und
-Rechteangaben
-machen](https://creativecommons.org/licenses/by-sa/4.0/deed.de), einen
-Link zur Lizenz beifügen und angeben, ob [Änderungen
-vorgenommen](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+verfügbar unter der Lizenz Creative Commons Namensnennung - Weitergabe
+unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) (mehr:
+<https://creativecommons.org/licenses/by-sa/4.0/deed.de>). Sie dürfen
+das Material in jedwedem Format oder Medium vervielfältigen und
+weiterverbreiten, es remixen, verändern und darauf aufbauen, und zwar
+für beliebige Zwecke, sogar kommerziell. Der Lizenzgeber kann diese
+Freiheiten nicht widerrufen, solange Sie sich an die Lizenzbedingungen
+halten: Sie müssen [angemessene Urheber- und Rechteangaben
+machen](https://creativecommons.org/licenses/by-sa/4.0/deed.de "https://creativecommons.org/licenses/by-sa/4.0/deed.de"),
+einen Link zur Lizenz beifügen und angeben, ob [Änderungen
+vorgenommen](https://creativecommons.org/licenses/by-sa/4.0/deed.de "https://creativecommons.org/licenses/by-sa/4.0/deed.de")
 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
 unterstütze gerade Sie oder Ihre Nutzung besonders. Sie dürfen keine
 zusätzlichen Klauseln oder [technischen
-Verfahren](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+Verfahren](https://creativecommons.org/licenses/by-sa/4.0/deed.de "https://creativecommons.org/licenses/by-sa/4.0/deed.de")
 einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz
 erlaubt.
 
@@ -61,7 +68,7 @@ Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
 Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
 Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere
 Rechte, wie [Persönlichkeits- und
-Datenschutzrechte](https://creativecommons.org/licenses/by-sa/4.0/deed.de),
+Datenschutzrechte](https://creativecommons.org/licenses/by-sa/4.0/deed.de "https://creativecommons.org/licenses/by-sa/4.0/deed.de"),
 zu beachten sein, die Ihre Nutzung des Materials entsprechend
 beschränken.
 
@@ -91,12 +98,12 @@ möglich.
 ## Methode
 
 Alle Texte wurden mit der sogenannten **Book Sprint** Methode erarbeitet
-und verfasst. Ein **Book Sprint** ist eine agile Methode, um in kurzer
-Zeit gemeinsam längere und komplexere Texte zu schreiben. Alle Book
-Sprints wurden gemeinsam von der Akademie für Öffentliches
-Gesundheitswesen und dem Open Science Lab der Technischen
-Informationsbibliothek (TIB) organisiert und durchgeführt. Die Methode
-Book Sprint erlaubt eine zielorientierte Erstellung digitaler Inhalte.
+und verfasst. Ein Book Sprint ist eine agile Methode, um in kurzer Zeit
+gemeinsam längere und komplexere Texte zu schreiben. Alle Book Sprints
+wurden gemeinsam von der Akademie für Öffentliches Gesundheitswesen und
+dem Open Science Lab der Technischen Informationsbibliothek (TIB)
+organisiert und durchgeführt. Die Methode Book Sprint erlaubt eine
+zielorientierte Erstellung digitaler Inhalte.
 
 Die Methode beruht auf den Prinzipien der Weitergabe (Sharing), der
 gemeinsamen Entwicklung (Co-Development), der Vernetzung der
@@ -112,12 +119,12 @@ Autorinnen und Autoren schreiben unter Nutzung digitaler Technologien.
 Diese ermöglichen einen gemeinsamen, parallelen Schreibprozess an
 Texten, die in vollem Umfang und bis zum Endergebnis als gemeinsames
 Produkt konzipiert und verstanden werden. Auf diese Weise entstehen
-Buchkapitel oder ganze Bücher. Wir haben in intensiven dreitägigen
-Book Sprints mit bis zehn Fachleute zu einem ausgewählten Thema
-gearbeitet. Dabei entwickeln die Teilnehmenden unter moderierter
-Anleitung eines/einer medienpädagogisch erfahrenen Book Sprint
-Moderators/-in gemeinsam Inhalte zu ausgewählten Themen, die relevant für
-die Arbeit im ÖGD sind.
+Buchkapitel oder ganze Bücher. Wir haben in intensiven dreitägigen Book
+Sprints mit bis zehn Fachleute zu einem ausgewählten Thema gearbeitet.
+Dabei entwickeln die Teilnehmenden unter moderierter Anleitung
+eines/einer medienpädagogisch erfahrenen Book Sprint Moderators/-in
+gemeinsam Inhalte zu ausgewählten Themen, die relevant für die Arbeit im
+ÖGD sind.
 
 ## Entstehungsprozess
 
@@ -175,16 +182,19 @@ keine Zusicherungen oder Garantien jeglicher Art in Bezug auf dieses
 Buch oder seinen Inhalt.
 
 Weder haften die Autoren/innen, die Herausgeber/innen, die Akademie für
-Öffentliches Gesundheitswesen noch andere Mitwirkenden für
-Schäden, die sich aus oder im Zusammenhang mit der Verwendung dieses
-Buches ergeben. Dies ist eine umfassende Haftungsbeschränkung, die für
-alle Schäden jeglicher Art gilt, einschließlich (ohne Einschränkung)
-entschädigend; direkte, indirekte oder Folgeschäden; Verlust von Daten,
-Einkommen oder Gewinn; Verlust von oder Sachschäden und Ansprüche
-Dritter.
+Öffentliches Gesundheitswesen noch andere Mitwirkenden für Schäden, die
+sich aus oder im Zusammenhang mit der Verwendung dieses Buches ergeben.
+Dies ist eine umfassende Haftungsbeschränkung, die für alle Schäden
+jeglicher Art gilt, einschließlich (ohne Einschränkung) entschädigend;
+direkte, indirekte oder Folgeschäden; Verlust von Daten, Einkommen oder
+Gewinn; Verlust von oder Sachschäden und Ansprüche Dritter.
 
 Verweise auf andere Seiten im Internet, Referenzen oder andere Quellen
 werden nur zu Informationszwecken bereitgestellt und stellen keine
 Billigung von Websites oder anderen Quellen dar. Die Leser sollten sich
 bewusst sein, dass sich die in diesem Lehrbuch aufgeführten Websites
 ändern können.
+
+<div class="section fnlist" data-role="doc-footnotes">
+
+</div>
