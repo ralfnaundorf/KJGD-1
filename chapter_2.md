@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 01. Präambel
+title: Präambel
 nav_order: 2
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 Kinder- und Jugendgesundheitsdienste (KJGD) sind ein integraler
 Bestandteil des Öffentlichen Gesundheitsdienstes (ÖGD) in Deutschland.
 
@@ -147,7 +146,3 @@ Akteuren elementar.
 “*Subsidiär*” sind Maßnahmen dann, wenn sie erforderlich sind, aber in
 keinem Regelsystem vorgehalten werden. Dies betrifft sowohl inhaltliche
 als auch strukturelle Aspekte der Aufgaben des KJGD.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

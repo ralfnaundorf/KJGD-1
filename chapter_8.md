@@ -3,19 +3,7 @@ layout: page
 title: Annex 02. Weblinks
 nav_order: 8
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 ## Webseiten A-Z
 
 **AVWS-Fragebogen. Deutsche Gesellschaft für Phoniatrie und
@@ -94,7 +82,3 @@ Fassung (außer Kraft 31.12.2017) mit entsprechenden Verlinkungen**
 Schuleingangsuntersuchungen (SOPESS). Landeszentrum Gesundheit
 Nordrhein-Westfalen.**
 <https://www.lzg.nrw.de/nocms/jahresberichte/reports/2015/up3/sopess_punkte/sopess.html>
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

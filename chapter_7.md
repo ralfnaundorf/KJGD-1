@@ -3,19 +3,7 @@ layout: page
 title: Annex 01. Abkürzungen
 nav_order: 7
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 **ArbMedVV** arbeitsmedizinische Vorsorge
 
 **AsylG** Asylgesetz
@@ -93,7 +81,3 @@ International Society of social pediatrics)
 **STIKO** Ständige Impfkommission
 
 **ZÄD** Zahnärztlicher Dienst
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

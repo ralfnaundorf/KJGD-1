@@ -3,19 +3,10 @@ layout: page
 title: Annex 03. Weiterführende Literatur
 nav_order: 9
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
+
+
+
 ## Allgemein
 
 **Adelmann D. Bahlmann-Duwe J. Hartwig C. Jahnke C. Langenbruch B.
@@ -72,7 +63,3 @@ Praxis. 2014. ISBN 978-3-9816001-1-7
 **Grimm H. Aktas M. Jungmann T. Peglow S. Stahn D. & Wolter E.**
 Sprachscreening im Vorschulalter: Wie viele Kinder brauchen tatsächlich
 eine Sprachförderung? Frühförderung Interdisziplinär 2004; 23: 108-117
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

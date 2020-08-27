@@ -1,21 +1,9 @@
 ---
 layout: page
-title: 05. Ausblick
+title: Ausblick
 nav_order: 6
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 Gesundheit, Bildung und Entwicklung stehen für unsere Kinder und
 Jugendlichen in einem untrennbaren Zusammenhang. Eine
 vollständige “*Chancengleichheit*” ist eine Illusion, aber die
@@ -64,9 +52,3 @@ die Bedeutung dieser Aufgaben zu gewinnen. Diese Klarheit und diese
 Erkenntnisse eignen sich nicht zur formalen Berichterstattung, müssen
 aber persönlich unbedingt weitervermittelt werden und dienen sicher auch
 der kommunalpädiatrischen Identitätsbildung.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

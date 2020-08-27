@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 02. Kooperationslandschaft
+title: Kooperationslandschaft
 nav_order: 3
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 ## Andere Fachabteilungen im Gesundheitsamt
 
 ### Kinder- und Jugendpsychiatrischer Dienst
@@ -274,9 +273,3 @@ viele der Kinder und Familien, die im SPZ betreut werden, müssen die
 KJGDs ganz konkret in Kenntnis der regionalen Angebotsstrukturen und
 Möglichkeiten die Familien bei der Umsetzung der SPZ-Empfehlungen
 unterstützen.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

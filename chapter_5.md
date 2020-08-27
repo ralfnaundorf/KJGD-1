@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 04. Systemische Aspekte
+title: Systemische Aspekte
 nav_order: 5
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 ## Prävention und Gesundheitsförderung
 
 In keinem klinischen Fach hat die präventive Medizin einen vergleichbar
@@ -678,9 +677,3 @@ Fachärztinnen und -ärzten für KJM nur empfohlen werden bei der
 zuständigen Ärztekammer die dafür erforderliche
 Weiterbildungsermächtigung für das Gebiet Kinder- und Jugendmedizin zu
 beantragen.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

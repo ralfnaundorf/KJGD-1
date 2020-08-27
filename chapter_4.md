@@ -1,21 +1,20 @@
 ---
 layout: page
-title: 03. Handlungsfelder
+title: Handlungsfelder
 nav_order: 4
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
 ## Aufwachsen in öffentlicher Verantwortung
 
 In den verschiedenen Lebens- und Entwicklungsphasen eines Kindes können
@@ -73,7 +72,7 @@ landesspezifisch sehr unterschiedlich sein können. Es gibt z.B.
     Kindergarten
 
   - Kooperation zur Prävention wie Ernährungsberatungsprogramme,
-    
+
     zum Thema Mediennutzung oder zur Bewegungsförderung
 
   - Impfberatungen 
@@ -701,7 +700,7 @@ reisen](https://www.bfarm.de/SharedDocs/Downloads/DE/Bundesopiumstelle/Betaeubun
 > “*Die Pflege und Erziehung der Kinder sind das natürliche Recht der
 > Eltern und die zuvörderst ihnen obliegende Pflicht. Über ihre
 > Betätigung wacht die staatliche Gemeinschaft.*” Art.6 (2) GG.
-> 
+>
 > “ *Kindern und Jugendlichen eine gesunde Entwicklung zu ermöglichen
 > und sie vor Gefährdungen für ihr Wohl zu schützen, ist eine
 > gesamtgesellschaftliche Aufgabe*.” Berliner Gesetz zum Schutz und Wohl
@@ -955,9 +954,3 @@ Diese Belehrungen werden auch bereits für Kinder und Jugendliche, teils
 vom KJGD, z.B. in Schulen als Gruppenbelehrungen oder in den
 Dienststellen als Einzelbelehrungen vor Beginn von Schulpraktika
 durchgeführt.
-
-# Literaturverzeichnis
-
-<div class="csl-bib-body">
-
-</div>

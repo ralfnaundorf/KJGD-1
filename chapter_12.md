@@ -3,31 +3,17 @@ layout: page
 title: c. Impressum
 nav_order: 12
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
-Der Kinder und Jugendgesundheitsdienst
 
-Lehrbuch für den Öffentlichen Gesundheitsdienst
 
-ISBN 978-3-9812871-4-1
-
-DOI
-
-Datum 2020
-
-Ort Berlin
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
+<h2>Impressum</h2>
+<p>Der Kinder- und Jugendgesundheitsdienst<br/>
+Lehrbuch für den Öffentlichen Gesundheitsdienst<br/>
+ISBN 978-3-9812871-4-1<br/>
+DOI <a href="https://doi.org/10.25815/6f4j-aq15" title="https://doi.org/10.25815/6f4j-aq15">10.25815/6f4j-aq15</a><br/>
+Datum 2020<br/>
+Ort Berlin</p>
+<p>&#160;</p>
+<p>© 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">https://creativecommons.org/licenses/by-sa/4.0/deed.de</a></p>
+<p>&#160;</p>
+<p>Drucken Lightning Source, Ingram Content Group Inc.</p>
+<h2 id="H2773125">Kontaktangaben</h2><p>Akademie für Öffentliches Gesundheitswesen in Düsseldorf</p><p>Kanzlerstr. 4</p><p>40472 Düsseldorf</p><p>Telefon: +49 (0) 211 - 310 96 10</p><p>www.akademie-oegw.de </p><p>Steuernummer: 106/5773/0023</p><br/><p>Die Akademie für Öffentliches Gesundheitswesen in Düsseldorf ist eine rechtsfähige Anstalt des öffentlichen Rechts. Gesetzlich vertreten durch die Direktorin Dr. med. Ute Teichert, MPH</p><br/><p><strong>Rechtsaufsicht</strong>:</p><p>Ministerium für Arbeit, Gesundheit und Soziales des Landes Nordrhein-Westfalen</p><p>Abteilung IV/Gesundheit</p><p>Fürstenwall 25, 40219 Düsseldorf</p><br/><p><strong>Verantwortlich für die Inhalte gemäß § 55 Abs. 2 RStV:</strong></p><p>Dr. med. Ute Teichert MPH</p><p>Telefon: +49 (0) 211 - 310 96 20</p><p>E-Mail: teichert@akademie-oegw.de</p><h2 id="H487059">Haftung für Inhalte</h2><p>Die Betreiberin dieser Webseite übernehmen keine Gewähr für die Aktualität, Richtigkeit oder Vollständigkeit der von ihnen bereitgestellten Informationen. Alle Angebote sind freibleibend und unverbindlich. Haftungsansprüche gegen die Betreiber, welche sich auf direkte oder indirekte Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen oder verlinkten Informationen verursacht wurden, sind grundsätzlich ausgeschlossen. Durch die Nutzung werden auch keine Rechte oder Pflichten zwischen den Betreibern und der Nutzerin oder dem Nutzer der Onlineangebote oder Dritten begründet. Die Betreiber behalten sich ausdrücklich vor, Teile der Angebote oder die gesamten Angebote ohne vorherige Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Die Inhalte stellen die persönliche Meinung der Autoren wieder.</p><br/><p>Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</p><h2 id="H8902835">Haftung für Links</h2><p>Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.</p>
