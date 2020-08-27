@@ -7,21 +7,21 @@ search_enabled: true
 # Enable support for hyphenated search words:
 search_tokenizer_separator: /[\s/]+/
 
-title: Krisenmanagement - Lehrbuch für den Öffentlichen Gesundheitsdienst
+title: Der Kinder- und Jugendgesundheitsdienst - Lehrbuch für den Öffentlichen Gesundheitsdienst
 
 # Aux links for the upper right navigation
 aux_links:
   "Lehrbuch auf GitHub":
-    - "https://github.com/akademie-oeffentliches-gesundheitswesen/krisenmanagment"
+    - "https://github.com/akademie-oeffentliches-gesundheitswesen/KJGD"
   "PDF":
-    - "pdf/Krisenmanagement-Pre-Release-v1-978-3-9812871-2-7-PDF.pdf"
+    - "screen-pdf/Der_Kinder-und_Jugendgesundheitsdienst_v1.pdf"
   "Web-Buch":
 
-    - "https://akademie-oeffentliches-gesundheitswesen.github.io/krisenmanagment/vivliostyle-viewer-2.0.0-pre.10/viewer/#src=https://akademie-oeffentliches-gesundheitswesen.github.io/krisenmanagment/webbuch/9783981287127KRIv1.xhtml&bookMode=true&renderAllPages=true"
+    - "https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/webbuch/index.html#src=kjgb-wb/kjgd_v1.xhtml&bookMode=true"
 
 logo: "/images/akademie.png"
 
 ga_tracking: UA-161871347-1
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.de | DOI 10.25815/h0ec-f967"
+footer_content: "Copyright &copy; 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.de | DOI 10.25815/6f4j-aq15"

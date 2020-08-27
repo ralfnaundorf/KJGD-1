@@ -1,21 +1,12 @@
 ---
 layout: page
-title: 00Startseite
+title: Startseite
 nav_order: 1
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
+![Der Kinder- und Jugendgesundheitsdienst Buch](images/cover.png "Der Kinder- und Jugendgesundheitsdienst Buch"){:.imgcover}
+*Der Kinder- und Jugendgesundheitsdienst - Lehrbuch für den Öffentlichen Gesundheitsdienst*
+
 Der Kinder- und Jugendgesundheitsdienst (KJGD) ist einer der zentralen
 Bereiche im Öffentliche Gesundheitsdienst (ÖGD). Er hat sich von der
 Einführung schulärztlicher Tätigkeit vor fast 150 Jahren immer wieder
@@ -58,7 +49,3 @@ mitteilen. Schicken Sie diese bitte an lehrbuch@akademie-oegw.de
 Wir nutzen
 **[Hypothes.is](https://hypothes.is/ "https://hypothes.is/")** für Ihre
 Kommentare und Ergänzungen unseres Lehrbuches.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
