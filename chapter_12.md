@@ -13,7 +13,7 @@ ISBN 978-3-9812871-4-1<br/>
 DOI <a href="https://doi.org/10.25815/6f4j-aq15" title="https://doi.org/10.25815/6f4j-aq15">10.25815/6f4j-aq15</a><br/>
 Datum 2020<br/>
 Ort Berlin</p>
-<p>&#160;</p>
+
 <p>© 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">https://creativecommons.org/licenses/by-sa/4.0/deed.de</a></p>
 
 <p>Drucken Lightning Source, Ingram Content Group Inc.</p>
