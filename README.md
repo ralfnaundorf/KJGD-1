@@ -6,9 +6,7 @@ DOI <a href="https://doi.org/10.25815/6f4j-aq15" title="https://doi.org/10.25815
 Datum 2020<br/>
 Ort Berlin</p>
 
-Webseite: (under construction) <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/">https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/screen-pdf/Der_Kinder-und_Jugendgesundheitsdienst_v1.pdf) | Print-on-demand (add link)
-
-Temp links (to be removed) [webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/webbuch/index.html#src=kjgb-wb/kjgd_v1.xhtml&bookMode=true) | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/screen-pdf/Der_Kinder-und_Jugendgesundheitsdienst_v1.pdf)
+Webseite: <a href="https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/" title="https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/">https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/</a> | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/screen-pdf/Der_Kinder-und_Jugendgesundheitsdienst_v1.pdf) | [Webbuch](https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/webbuch/index.html#src=kjgb-wb/kjgd_v1.xhtml&bookMode=true) | [PDF](https://akademie-oeffentliches-gesundheitswesen.github.io/KJGD/screen-pdf/Der_Kinder-und_Jugendgesundheitsdienst_v1.pdf)   
 
 # Über das Lehrbuch
 

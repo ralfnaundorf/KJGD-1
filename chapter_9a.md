@@ -4,11 +4,7 @@ title: Literaturverzeichnis
 nav_order: 10
 ---
 
-
-
-
 # Literaturverzeichnis
-
 
   <div class="article-part article-richtext article-body">
 <h2 id="_5juovpky2">Kooperationslandschaft</h2>
