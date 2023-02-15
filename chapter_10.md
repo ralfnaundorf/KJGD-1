@@ -36,9 +36,9 @@ Landkreis Oranienburg
 
 Gesundheitsamt Mainz-Bingen
 
-**Dr. med. Andrea Wünsch**
+**Dr. med. Andrea Wünsch MPH**
 
-Fachbereich Gesundheit, Region Hannover
+Fachbereich Jugend, Region Hannover
 
 ## Anerkennung & Danksagung
 
